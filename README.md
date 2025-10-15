@@ -1,4 +1,4 @@
-<img width="1216" height="739" alt="image" src="https://github.com/user-attachments/assets/95202836-9102-43bc-89ef-a0fee66ac9bc" /># Importing and updating profiles
+# Importing and updating profiles
 
 ## Importing a new profile:
 
