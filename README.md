@@ -1,5 +1,8 @@
 # Importing and updating profiles
+[Importing new profile](https://github.com/blazer-too/r2modman-tutorial-ongc/blob/main/README.md#importing-a-new-profile)
+[Updating existing profile](https://github.com/blazer-too/r2modman-tutorial-ongc/blob/main/README.md#updating-an-existing-profile)
 
+---
 ## Importing a new profile:
 
 Once you've selected a game, you will see a profile selection page.
