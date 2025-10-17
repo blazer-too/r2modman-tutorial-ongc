@@ -1,6 +1,6 @@
 # Important step!
 
-Before you start with any tutorial [**download and install r2modman**](https://github.com/ebkr/r2modmanPlus/releases)
+Before you start with any tutorial [**download and install r2modman here**](https://github.com/ebkr/r2modmanPlus/releases)
 
 ---
 # Importing and updating profiles
